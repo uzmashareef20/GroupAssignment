@@ -1,12 +1,12 @@
-Harry Potter 
-Venom 
-Titanic
+Harry Potter (Warner Bro's) 
+Venom (Marvel Entertainment)
+Titanic (Paramount Pictures)
 <<<<<<< HEAD
-The Hunger Games
-Catching Fire
-Mockingjay
+The Hunger Games (Lions Gate)
+Catching Fire (Lions Gate)
+Mockingjay (Lions Gate)
 =======
-Divergent
-Insurgent
-Allegiant
+Divergent (Redwagon Entertainment)
+Insurgent (Redwagon Entertainment)
+Allegiant (Redwagon Entertainment)
 >>>>>>> 877abe9a235bf1025064da433268bcb6b8b90850
