@@ -1,12 +1,12 @@
-Harry Potter 
-Venom 
-Titanic
+Harry Potter (2001) 
+Venom (2018)
+Titanic (1997)
 <<<<<<< HEAD
-The Hunger Games
-Catching Fire
-Mockingjay
+The Hunger Games (2012)
+Catching Fire (2013)
+Mockingjay (2014)
 =======
-Divergent
-Insurgent
-Allegiant
+Divergent (2014)
+Insurgent (2015)
+Allegiant (2016)
 >>>>>>> 877abe9a235bf1025064da433268bcb6b8b90850
