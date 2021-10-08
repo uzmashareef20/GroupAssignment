@@ -1,15 +1,24 @@
 <<<<<<< HEAD
-Harry Potter (Warner Bro's) 
+Harry Potter (Warner Bro's)
+Chris Columbus 
 Venom (Marvel Entertainment)
+Ruben Fleischer
 Titanic (Paramount Pictures)
+James Cameron
 <<<<<<< HEAD
 The Hunger Games (Lions Gate)
-Catching Fire (Lions Gate)
+Francis Luarence
+Catching Firie (Lions Gate)
+Francis Luarence
 Mockingjay (Lions Gate)
+Francis Luarence
 =======
 Divergent (Redwagon Entertainment)
+Neil Burger
 Insurgent (Redwagon Entertainment)
+Neil Burger
 Allegiant (Redwagon Entertainment)
+Neil Burger
 =======
 Harry Potter (2001) 
 Venom (2018)
